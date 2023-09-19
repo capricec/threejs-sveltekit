@@ -10,8 +10,8 @@
 </script>
 
 <svelte:head>
-	<title>Three.js Sveltekit</title>
-	<meta name="description" content="Three.js example app built with Svelte" />
+	<title>Fanout FanPulse</title>
+	<meta name="description" content="Fanout Fan Pulse Visualization" />
 </svelte:head>
 
 <canvas bind:this={el} />
